@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BetterBow",
+  "author": "Simmelsau",
+  "version": "1.0.0",
+  "description": "Add a flashlight to the modern Bow",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

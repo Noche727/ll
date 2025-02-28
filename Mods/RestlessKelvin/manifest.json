@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RestlessKelvin",
+  "author": "codengine",
+  "version": "1.0.0",
+  "description": "With this mod, Kelvin will never take a break while he executes your orders",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/codengine/SOTFEdit"
+}

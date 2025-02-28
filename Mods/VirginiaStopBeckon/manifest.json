@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "VirginiaStopBeckon",
+  "author": "Franky",
+  "version": "1.0.1",
+  "description": "Stops Virginia from trying to guide you to useless places",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "Illuminate",
+  "author": "Toni Macaroni",
+  "version": "1.0.3",
+  "description": "Change settings and color of various light sources.",
+  "gameVersion": "1.0.0",
+  "loaderVersion": "0.6.0",
+  "type": "Mod",
+  "url": "..."
+}

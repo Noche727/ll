@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BowTrajectory",
+  "author": "Toni Macaroni",
+  "version": "1.0.0",
+  "description": "Adds a trajectory line to the bow",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

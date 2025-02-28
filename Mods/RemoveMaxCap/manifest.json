@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RemoveMaxObjectCap",
+  "author": "tempbito",
+  "version": "1.0.1",
+  "description": "Change the limit of objects in the world (Logs, Sticks, Rocks, Bones, Fish) ",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "VirginiaAlternateHair",
+  "author": "Old Man Grimely",
+  "version": "1.0.0",
+  "description": "Activates Virginia's Alternative Hair.'",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

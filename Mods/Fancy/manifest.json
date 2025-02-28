@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "Fancy",
+  "author": "Toni Macaroni",
+  "version": "1.0.3",
+  "description": "Additional path building structures.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "loaderVersion": "0.6.9",
+  "platform": "Universal",
+  "url": "..."
+}
